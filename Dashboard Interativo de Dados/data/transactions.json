@@ -1,0 +1,8 @@
+[
+  { "id": 1, "date": "2025-01-15", "amount": 200, "category": "Alimentação", "type": "variável" },
+  { "id": 2, "date": "2025-01-20", "amount": 1000, "category": "Aluguel", "type": "fixo" },
+  { "id": 3, "date": "2025-02-05", "amount": 150, "category": "Transporte", "type": "variável" },
+  { "id": 4, "date": "2025-02-15", "amount": 500, "category": "Lazer", "type": "variável" },
+  { "id": 5, "date": "2025-03-01", "amount": 1000, "category": "Aluguel", "type": "fixo" },
+  { "id": 6, "date": "2025-03-10", "amount": 300, "category": "Saúde", "type": "variável" }
+]
